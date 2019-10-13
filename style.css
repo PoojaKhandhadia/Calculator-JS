@@ -28,11 +28,11 @@ body{
 }
 
 .calculator-grid > button:hover{
-    background: aquamarine
+    background: wheat
 }
 
 .span-two{
-    grid-column: span 2; 
+    grid-column: span 2;
 }
 
 .output{
